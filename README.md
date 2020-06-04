@@ -1,4 +1,4 @@
-# node-express-postgres-app
+# node-express-postgres-app (**Hosted Postgres RDS on AWS**)
 
 ## Home Page
 ![TaskPage](https://user-images.githubusercontent.com/57167636/83750547-4ed27f80-a61a-11ea-8d9c-55decd1351a1.png)
